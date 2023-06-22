@@ -1,0 +1,50 @@
+[
+  {
+    "maLoaiThietBiRan": "SRAN 2G/3G",
+    "tenLoaiThietBiRan": "SRAN 2G/3G",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiThietBiRan": "SRAN 3G/4G",
+    "tenLoaiThietBiRan": "SRAN 3G/4G",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiThietBiRan": "3G",
+    "tenLoaiThietBiRan": "3G",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiThietBiRan": "4G",
+    "tenLoaiThietBiRan": "4G",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiThietBiRan": "5G",
+    "tenLoaiThietBiRan": "5G",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiThietBiRan": "3G-4G",
+    "tenLoaiThietBiRan": "3G-4G",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiThietBiRan": "4G-5G",
+    "tenLoaiThietBiRan": "4G-5G",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiThietBiRan": "L2100",
+    "tenLoaiThietBiRan": "L2100",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]

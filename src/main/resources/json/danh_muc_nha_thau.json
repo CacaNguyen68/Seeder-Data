@@ -1,0 +1,80 @@
+[
+  {
+    "tenDanhMuc": "VNPT-Technology",
+    "tenVietTat": "VNPT-T",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "MobiFone Global",
+    "tenVietTat": "MBG",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "MobiFone Service",
+    "tenVietTat": "MBS",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "Ericsson",
+    "tenVietTat": "Ericsson",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "Huawei",
+    "tenVietTat": "HW",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "Comas",
+    "tenVietTat": "Comas",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "ITC",
+    "tenVietTat": "ITC",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "ZTE",
+    "tenVietTat": "ZTE",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "SPN",
+    "tenVietTat": "SPN",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "AC",
+    "tenVietTat": "Á Châu",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "CT-IN",
+    "tenVietTat": "CT-IN",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "ALU",
+    "tenVietTat": "Alcatel-Lucent",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "tenDanhMuc": "KST",
+    "tenVietTat": "Kasati",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]

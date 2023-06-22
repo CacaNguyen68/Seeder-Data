@@ -1,0 +1,26 @@
+[
+  {
+    "maLoaiDuAn": "Full-Turnkey",
+    "tenLoaiDuAn": "Full-Turnkey",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiDuAn": "Non-Turnkey",
+    "tenLoaiDuAn": "Non-Turnkey",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiDuAn": "TCT_Tự triển khai",
+    "tenLoaiDuAn": "TCT_Tự triển khai",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiDuAn": "MLMN_HCML",
+    "tenLoaiDuAn": "MLMN_HCML",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]

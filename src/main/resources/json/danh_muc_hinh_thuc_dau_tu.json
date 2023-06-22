@@ -1,0 +1,26 @@
+[
+  {
+    "maHinhThucDauTu": "ht01",
+    "tenHinhThucDauTu": "Dùng chung CSHT",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maHinhThucDauTu": "ht02",
+    "tenHinhThucDauTu": "CSHT có sẵn",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maHinhThucDauTu": "ht03",
+    "tenHinhThucDauTu": "MBF dựng cột trên mái",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maHinhThucDauTu": "ht04",
+    "tenHinhThucDauTu": "MBF đầu tư mới",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]

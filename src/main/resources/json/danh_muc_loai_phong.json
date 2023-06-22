@@ -1,0 +1,26 @@
+[
+  {
+    "maLoaiPhong":"BTCT",
+    "loaiPhong": "BTCT",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiPhong":"Enclosure",
+    "loaiPhong": "Enclosure",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiPhong":"Shelter",
+    "loaiPhong": "Shelter",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiPhong":"Không có",
+    "loaiPhong": "Không có",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]

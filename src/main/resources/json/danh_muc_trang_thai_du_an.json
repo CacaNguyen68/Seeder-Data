@@ -1,0 +1,20 @@
+[
+  {
+    "maTrangThaiDuAn": "Chuẩn bị triển khai",
+    "tenTrangThaiDuAn": "Chuẩn bị triển khai",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maTrangThaiDuAn": "Đang triển khai",
+    "tenTrangThaiDuAn": "Đang triển khai",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maTrangThaiDuAn": "Đã hoàn thành",
+    "tenTrangThaiDuAn": "Đã hoàn thành",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]

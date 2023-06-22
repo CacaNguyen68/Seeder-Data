@@ -1,0 +1,74 @@
+[
+  {
+    "maDonViTrienKhai": "TXT",
+    "tenDonViTrienKhai": "Tổ Xét thầu",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "P.TCHC",
+    "tenDonViTrienKhai": "Phòng Tổ chức Hành chính",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "P.KT",
+    "tenDonViTrienKhai": "Phòng Kế toán",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "P.KHĐT",
+    "tenDonViTrienKhai": "Phòng Kế hoạch Đầu tư",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "P.HT",
+    "tenDonViTrienKhai": "Phòng Hạ tầng",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "P.VT",
+    "tenDonViTrienKhai": "Phòng Vô tuyến",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "P.TD",
+    "tenDonViTrienKhai": "Phòng Truyền dẫn",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "ĐVTT",
+    "tenDonViTrienKhai": "Đài viễn thông Tây HCM",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "ĐVTBD",
+    "tenDonViTrienKhai": "Đài viễn thông Bình Dương",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "ĐVTCT",
+    "tenDonViTrienKhai": "Phòng Truyền dẫn",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "ĐVTĐN",
+    "tenDonViTrienKhai": "Đài viễn thông Đồng Nai",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maDonViTrienKhai": "ĐVTTG",
+    "tenDonViTrienKhai": "Đài viễn thông Tiền Giang",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]

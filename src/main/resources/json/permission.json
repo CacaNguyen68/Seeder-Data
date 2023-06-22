@@ -1,0 +1,297 @@
+[
+  {
+    "permissionKey": "CATEGORY_CREATE",
+    "permissionAlias": "Tạo danh mục ",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CATEGORY_DELETE",
+    "permissionAlias": "Xóa danh mục",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CATEGORY_READ",
+    "permissionAlias": "Xem danh mục",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CATEGORY_UPDATE",
+    "permissionAlias": "Cập nhật danh mục",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CSHT_ALLOW",
+    "permissionAlias": "Duyệt CSHT",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CSHT_CREATE",
+    "permissionAlias": "Tạo CSHT",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CSHT_DELETE",
+    "permissionAlias": "Xóa CSHT",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CSHT_EXPORT",
+    "permissionAlias": "Xuất CSHT",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CSHT_IMPORT",
+    "permissionAlias": "Import CSHT",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CSHT_READ",
+    "permissionAlias": "Xem CSHT",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CSHT_SURVEY",
+    "permissionAlias": "Khảo Sát CSHT",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "CSHT_UPDATE",
+    "permissionAlias": "Cập nhật CSHT",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "DUAN_ALLOW",
+    "permissionAlias": "Duyệt Dự án ",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "DUAN_CREATE",
+    "permissionAlias": "Tạo dự án",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "DUAN_DELETE",
+    "permissionAlias": "Xóa dự án",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "DUAN_EXPORT",
+    "permissionAlias": "Xuất dự án",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "DUAN_IMPORT",
+    "permissionAlias": "Import dự án",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "DUAN_READ",
+    "permissionAlias": "Xem dự án",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "DUAN_RECEIVE_MAIL",
+    "permissionAlias": "Được nhận mail từ module Dự Án",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "DUAN_UPDATE",
+    "permissionAlias": "Cập nhật dự án",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_CREATE_DIEM_DEN",
+    "permissionAlias": "Quy hoạch - Tạo điểm đen",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_CREATE_PTM",
+    "permissionAlias": "Quy hoạch - Tạo PTM",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_CREATE_STATION",
+    "permissionAlias": "Quy hoạch - Tạo điểm/trạm",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_DELETE_DIEM_DEN",
+    "permissionAlias": "Quy hoạch - Xóa điểm đen",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_DELETE_PTM",
+    "permissionAlias": "Quy hoạch - Xóa PTM",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_DELETE_STATION",
+    "permissionAlias": "Quy hoạch - Xóa điểm/trạm",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_DIEM_DEN_VIEW",
+    "permissionAlias": "Quy hoạch - Xem điểm đen",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_DISTANCE",
+    "permissionAlias": "Quy hoạch - Đo khoảng cách",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_EXPORT_DIEM_DEN",
+    "permissionAlias": "Quy hoạch - Export điểm đen",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_EXPORT_PTM",
+    "permissionAlias": "Quy hoạch - Export PTM",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_EXPORT_STATION",
+    "permissionAlias": "Quy hoạch - Export điểm/trạm",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_IMPORT_DIEM_DEN",
+    "permissionAlias": "Quy hoạch - Import điểm đen",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_IMPORT_MASTER_DIEM_DEN",
+    "permissionAlias": "Quy hoạch - Import master điểm đen",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_IMPORT_MASTER_PTM",
+    "permissionAlias": "Quy hoạch - Import master PTM",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_IMPORT_PTM",
+    "permissionAlias": "Quy hoạch - Import PTM",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_IMPORT_STATION",
+    "permissionAlias": "Quy hoạch - Import điểm/trạm",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_PTM_VIEW",
+    "permissionAlias": "Quy hoạch - Xem PTM",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_REPORT_DIEM_DEN",
+    "permissionAlias": "Quy hoạch - Báo cáo điểm đen",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_REPORT_PTM",
+    "permissionAlias": "Quy hoạch - Báo cáo PTM",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_SETTING_CELL_PTM",
+    "permissionAlias": "Quy hoạch - Cấu hình cánh cell",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_UPDATE_DIEM_DEN",
+    "permissionAlias": "Quy hoạch - Sửa điểm đen",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_UPDATE_PTM",
+    "permissionAlias": "Quy hoạch - Sửa PTM",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_UPDATE_STATION",
+    "permissionAlias": "Quy hoạch - Sửa điểm/trạm",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "MAP_VIEW",
+    "permissionAlias": "Quy hoạch - Xem bản đồ",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "ROLE_CREATE",
+    "permissionAlias": "Tạo cấu hình phân quyền",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "ROLE_READ",
+    "permissionAlias": "Xem cấu hình phân quyền",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "ROLE_UPDATE_PERMISSION",
+    "permissionAlias": "Cập nhật chức năng phân quyền",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "TKTB_ALLOW",
+    "permissionAlias": "Duyệt TKTB",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "TKTB_CREATE",
+    "permissionAlias": "Tạo TKTB",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "TKTB_DELETE",
+    "permissionAlias": "Xóa TKTB",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "TKTB_EXPORT",
+    "permissionAlias": "Xuất TKTB",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "TKTB_IMPORT",
+    "permissionAlias": "Import TKTB",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "TKTB_READ",
+    "permissionAlias": "Xem TKTB",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "TKTB_RECEIVIE_MAIL",
+    "permissionAlias": "Được nhận mail từ module TKTB",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "TKTB_UPDATE",
+    "permissionAlias": "Cập nhật TKTB",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "USER_CREATE",
+    "permissionAlias": "Tạo USER",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "USER_DELETE",
+    "permissionAlias": "Xóa USER",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "USER_READ",
+    "permissionAlias": "Xem user",
+    "createBy": "System"
+  },
+  {
+    "permissionKey": "USER_UPDATE",
+    "permissionAlias": "Cập nhật USER",
+    "createBy": "System"
+  }
+]

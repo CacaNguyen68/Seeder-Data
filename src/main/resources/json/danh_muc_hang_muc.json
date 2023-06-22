@@ -1,0 +1,33 @@
+[
+  {
+    "maHangMuc": "hm01",
+    "tenHangMuc": "Lắp reuse",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maHangMuc": "hm02",
+    "tenHangMuc": "Lắp mới",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maHangMuc": "hm03",
+    "tenHangMuc": "Swap",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maHangMuc": "hm04",
+    "tenHangMuc": "Nâng cấp",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+
+    "maHangMuc": "Phát sóng L2100",
+    "tenHangMuc": "Phát sóng L2100",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]

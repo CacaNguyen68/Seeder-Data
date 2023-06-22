@@ -1,0 +1,14 @@
+[
+  {
+    "maTinhTrangCsht": "Mới",
+    "tenTinhTrangCsht": "Mới",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maTinhTrangCsht": "Cũ",
+    "tenTinhTrangCsht": "Cũ",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]

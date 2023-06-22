@@ -1,0 +1,32 @@
+[
+  {
+    "maLoaiCsht": "Macro-indoor",
+    "tenLoaiCsht": "Macro-indoor",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiCsht": "Macro-outdoor",
+    "tenLoaiCsht": "Macro-outdoor",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiCsht": "Biển đảo",
+    "tenLoaiCsht": "Biển đảo",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiCsht": "IBC",
+    "tenLoaiCsht": "IBC",
+    "trangThai": "0",
+    "createBy": "System"
+  },
+  {
+    "maLoaiCsht": "miniDAS-outdoor",
+    "tenLoaiCsht": "miniDAS-outdoor",
+    "trangThai": "0",
+    "createBy": "System"
+  }
+]
